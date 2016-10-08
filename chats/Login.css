@@ -1,0 +1,26 @@
+*{
+	font:14px "Microsoft YaHei", "SimHei", sans-serif;
+}
+#divLogin{
+	width: 260px;
+	height:180px;
+	margin:0 auto;
+	margin-top: 200px;
+	border:1px solid gray;
+}
+.content{
+	margin: 18px 0 0 25px;
+}
+.contnent{
+	margin-left:50px;
+}
+h3{
+	font:14px/30px "Microsoft YaHei", "SimHei", sans-serif;
+	height:30px;
+	margin:0;
+	padding-left: 3px;
+	background: gray;
+}
+input{
+	margin:5px;
+}
